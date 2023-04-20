@@ -1,3 +1,5 @@
+<p align="center" > <img src="https://i.ibb.co/yYgc73T/Fu-I6-Yyu-WIAAhpbv.jpg"width="350" height="350"/> </p>
+
 <h1 align="center">Hi 👋, I'm Rangga</h1>
 <h3 align="center">An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember</h3>
 
