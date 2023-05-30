@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **React,Next,MongoDB,and Flutter**
+- 🌱 I’m currently learning **React,Next,MongoDB**
 
 - 👯 I’m looking to collaborate on **MERN/MEVN projects**
 
