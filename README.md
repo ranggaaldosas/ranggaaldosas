@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranggaaldosas&label=Profile%20views&color=0e75b6&style=flat" alt="ranggaaldosas" /> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **Data science projects.**
 
-- 🌱 I’m currently learning **React,Next,MongoDB**
+- 🌱 I’m currently learning **React,Next,MongoDB, and Data Science**
 
 - 👯 I’m looking to collaborate on **MERN/MEVN projects**
 
