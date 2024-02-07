@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranggaaldosas&show_icons=true&locale=en" alt="ranggaaldosas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranggaaldosas&" alt="ranggaaldosas" /></p>
+
+![snake_gif](https://github.com/ranggaaldosas/ranggaaldosas/blob/output/github-contribution-grid-snake-dark.svg)
