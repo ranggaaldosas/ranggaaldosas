@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranggaaldosas&label=Profile%20views&color=0e75b6&style=flat" alt="ranggaaldosas" /> </p>
 
-- 🔭 I’m currently working on **Data science projects.**
+- 🔭 I’m currently working on **Data Engineering & LLM projects.**
 
-- 🌱 I’m currently learning **React,Next,MongoDB, and Data Science**
-
-- 👯 I’m looking to collaborate on **MERN/MEVN projects**
+- 👯 I’m looking to collaborate on **NLP/LLM or Data Engineering projects**
 
 - 📫 How to reach me **ranggaaldosas@gmail.com**
 
