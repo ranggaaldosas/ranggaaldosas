@@ -20,10 +20,50 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Webs</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+   <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,bootstrap,c,cpp,git,css,docker,kubernetes,express,figma,git,github,gitlab,html,js,linux,materialui,mongodb,nextjs,nginx,nodejs,notion,opencv,postman,pycharm,py,pytorch,react,sklearn,tailwind,ubuntu,vercel,vscode,vue,vim&perline=10" />
-  </a>
+  </a> -->
+</p>
+<p align="center">
+  
+  <div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apacheairflow.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-light.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dbeaver.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/digitalocean.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/mainicons/langchain-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/gitlab-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/googlebigquery-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/huggingface.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kaggle-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/looker-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/neo4j-light.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/" width="50"></a>
+  
+
+</div>
 </p>
 
 <p align="center">
