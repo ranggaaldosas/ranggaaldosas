@@ -20,7 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2 align="left">Webs</h2>
 <p align="center">
    <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,bootstrap,c,cpp,git,css,docker,kubernetes,express,figma,git,github,gitlab,html,js,linux,materialui,mongodb,nextjs,nginx,nodejs,notion,opencv,postman,pycharm,py,pytorch,react,sklearn,tailwind,ubuntu,vercel,vscode,vue,vim&perline=10" />
@@ -55,12 +54,14 @@
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit-dark.svg" width="50"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/" width="50"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/" width="50"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/keras.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/trello.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/virtualbox-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-dark.svg" width="50"></a>
   
 
 </div>
