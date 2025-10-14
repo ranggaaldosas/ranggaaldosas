@@ -14,6 +14,13 @@
 <p align="left">
 <a href="https://www.digitalocean.com/?refcode=946bad131b65&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 </p>
+
+<h3 align="left">Certifications</h3>
+<a href="https://www.credly.com/badges/ba3e1bac-7c6c-4715-b26e-e06900f5da73/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Airflow 3 Certified" width="200" height="200">
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ranggaaldosas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranggaaldosas" height="30" width="40" /></a>
