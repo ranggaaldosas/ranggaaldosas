@@ -19,7 +19,9 @@
 <a href="https://www.credly.com/badges/ba3e1bac-7c6c-4715-b26e-e06900f5da73/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Airflow 3 Certified" width="200" height="200">
 </a>
-
+<a href="https://www.credly.com/badges/76e606ae-7594-489b-ac34-14532555d594/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" alt="Airflow 3 Certified" width="200" height="200">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
